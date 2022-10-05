@@ -5,5 +5,5 @@ Some of the NFT that can be seen throught the "COLLECTIONS" keyword in the upper
 Something goes wrong with the actual call of the smart contract tho, as opening the console clearly shows the action was reverted due to infinite GAS.
 I did not keep on trying to fix the issue as I started this project mainly to learn more about React and next.js.
 
-I do not like at all the way Sanity.io works. seems overcomplicated with no added benefit compared to Pinata for example.
+I am not really a fan of the way Sanity.io works. Seems overcomplicated with no added benefit compared to Pinata and Infura.
 
